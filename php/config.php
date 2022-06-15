@@ -2,7 +2,7 @@
   $hostname = "chat-app-db.mysql.database.azure.com";
   $username = "volevu76@chat-app-db";
   $password = "trannhuy76@";
-  $dbname = "chatappweb";
+  $dbname = "";
 
   $conn = mysqli_connect($hostname, $username, $password, $dbname);
   if(!$conn){
