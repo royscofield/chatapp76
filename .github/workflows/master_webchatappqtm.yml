@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'webchatAppQTM'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E0045AEFE0E42E8BFB3E34DF3883B5E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7BA9857B6C0D409CB27CC15C11EB7397 }}
           package: .
